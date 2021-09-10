@@ -8,7 +8,9 @@ Python Dictionary Look:
 5. Inputs are in form of command line arguments.
 6. To install nltk use the instructions below:
 >> pip3 install nltk
+
 7. To download the wordnet
+
 >> python3
 >> import nltk
 >> nltk.download('wordnet')
