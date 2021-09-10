@@ -7,13 +7,13 @@ Python Dictionary Look:
 4. Print are used to display the meaning and synonyms.
 5. Inputs are in form of command line arguments.
 6. To install nltk use the instructions below:
->> pip3 install nltk
+pip3 install nltk
 
 7. To download the wordnet
 
->> python3
->> import nltk
->> nltk.download('wordnet')
+python3
+import nltk
+nltk.download('wordnet')
 
 # USAGE Example
 # python3 word_search.py --string Car --path /home/kitetsu/sample.txt
